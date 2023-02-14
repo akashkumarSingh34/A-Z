@@ -7,3 +7,5 @@ int isPalindrome(string S)
 	    }
 	   return 1;
 	}
+
+
