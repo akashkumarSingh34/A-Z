@@ -6,9 +6,3 @@
                 ele = arr[i];
         return  ele;
     }
-
-
-
-
-
-
