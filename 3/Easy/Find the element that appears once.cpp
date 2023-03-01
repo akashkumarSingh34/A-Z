@@ -1,4 +1,5 @@
-// for sorted array	
+ // for sorted array	time complexity O(logn)
+
 
 int search(int A[], int N){
 	    //code
@@ -11,7 +12,7 @@ int search(int A[], int N){
 	}
 
 
-// for an unsorted array
+// for an unsorted array time complexity O(n)
 
 	int search(int A[], int N){
 	    //code
