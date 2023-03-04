@@ -12,6 +12,7 @@ class Solution {
             cout<<endl;
         }
     }
+  
 };
 
 
