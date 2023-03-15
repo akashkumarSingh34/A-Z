@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 class Solution {
   public:
     void printTriangle(int n) {
