@@ -9,6 +9,7 @@ int search(int A[], int N){
 	   }
 	   return 0;
 	    
+	
 	}
 
 
