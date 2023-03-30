@@ -12,6 +12,7 @@ class Solution {
             for(int k = 2*n - 2*i; k > 0; k--)
                 cout<<"  ";
             for(int j =i; j > 0; j--)
+              
                 cout<<j<<" ";
             cout<<endl;
         }
