@@ -12,7 +12,6 @@ int search(int A[], int N){
 	
 	}
 
-
 // for an unsorted array time complexity O(n)
 
 	int search(int A[], int N){
