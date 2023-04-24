@@ -22,4 +22,3 @@ int search(int A[], int N){
 	   return number;
 	    
 	}
-
